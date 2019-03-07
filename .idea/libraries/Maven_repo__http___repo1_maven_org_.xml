@@ -1,0 +1,8 @@
+<component name="libraryTable">
+  <library name="Maven repo: http://repo1.maven.org/" type="repository">
+    <properties maven-id="se.ugli.durian:durian-java-jackson:0.9.15" />
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
